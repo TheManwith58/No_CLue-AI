@@ -1,0 +1,9 @@
+streamlit
+pandas
+sentence-transformers
+numpy
+scikit-learn
+beautifulsoup4
+nltk
+streamlit-lottie
+requests
