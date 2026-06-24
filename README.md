@@ -1,4 +1,4 @@
-# Semantic-Debugger
+# No Clue - AI
 NLP-Based Error Resolution Engine using Stack Overflow Data
 AI-Powered Debugging Assistant 🤖
 A smart tool that helps Python developers debug their code faster by suggesting Stack Overflow solutions for their error messages.
